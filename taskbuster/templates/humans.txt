@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Vilmis -- Developer -- notwiter
 
 # THANKS
 
-    <name>
+    Thanks to Marina Mele for wonderful tutorial
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
-    jQuery, Modernizr
+   Django
+   HTML5 Boilerplate
+   Twitter Bootstrap
